@@ -1,0 +1,56 @@
+@CHARSET "UTF-8";
+* {
+margin: 0px;
+padding: 0px;
+}
+
+#content {
+	border: 2px solid;
+}
+h3{
+	font-size: 16px;
+}
+#header {
+	clear: left;
+	height: 100px;
+	background-color: #ccc;
+	margin-top:50px;
+	border: 2px solid;
+	margin-bottom: -2px;
+}
+body {
+	width :1000px;
+	margin-right: auto;
+	margin-left: auto;
+	padding: 0px;
+	
+}
+#left{
+	width: 250px;
+	height: 600px;
+	margin:5px;
+	background-color: #ccc;
+	float:left;
+	border: 2px solid;
+}
+#notice {
+	background-color: #ccc;
+	height: 600px;
+	margin: 5px;
+	border: 2px solid;
+	
+}
+#footer {
+	clear: left;
+	height: 100px;
+	background-color: #ccc;
+	border: 2px solid;
+	margin-top: -2px; 
+}
+#noticeList {
+	background-color: #bbb;
+	margin-top: 300px;
+	margin-left: 400px;
+	border: 1px solid black;
+	font-size: 18px;
+}
